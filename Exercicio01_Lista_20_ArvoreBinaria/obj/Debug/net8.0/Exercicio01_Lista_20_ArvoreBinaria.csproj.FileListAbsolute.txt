@@ -1,0 +1,14 @@
+D:\Projeto_C#_2_hd2\Lista_20_ArvoreBinaria_C#\Exercicio01_Lista_20_ArvoreBinaria\bin\Debug\net8.0\Exercicio01_Lista_20_ArvoreBinaria.exe
+D:\Projeto_C#_2_hd2\Lista_20_ArvoreBinaria_C#\Exercicio01_Lista_20_ArvoreBinaria\bin\Debug\net8.0\Exercicio01_Lista_20_ArvoreBinaria.deps.json
+D:\Projeto_C#_2_hd2\Lista_20_ArvoreBinaria_C#\Exercicio01_Lista_20_ArvoreBinaria\bin\Debug\net8.0\Exercicio01_Lista_20_ArvoreBinaria.runtimeconfig.json
+D:\Projeto_C#_2_hd2\Lista_20_ArvoreBinaria_C#\Exercicio01_Lista_20_ArvoreBinaria\bin\Debug\net8.0\Exercicio01_Lista_20_ArvoreBinaria.dll
+D:\Projeto_C#_2_hd2\Lista_20_ArvoreBinaria_C#\Exercicio01_Lista_20_ArvoreBinaria\bin\Debug\net8.0\Exercicio01_Lista_20_ArvoreBinaria.pdb
+D:\Projeto_C#_2_hd2\Lista_20_ArvoreBinaria_C#\Exercicio01_Lista_20_ArvoreBinaria\obj\Debug\net8.0\Exercicio01_Lista_20_ArvoreBinaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto_C#_2_hd2\Lista_20_ArvoreBinaria_C#\Exercicio01_Lista_20_ArvoreBinaria\obj\Debug\net8.0\Exercicio01_Lista_20_ArvoreBinaria.AssemblyInfoInputs.cache
+D:\Projeto_C#_2_hd2\Lista_20_ArvoreBinaria_C#\Exercicio01_Lista_20_ArvoreBinaria\obj\Debug\net8.0\Exercicio01_Lista_20_ArvoreBinaria.AssemblyInfo.cs
+D:\Projeto_C#_2_hd2\Lista_20_ArvoreBinaria_C#\Exercicio01_Lista_20_ArvoreBinaria\obj\Debug\net8.0\Exercicio01_Lista_20_ArvoreBinaria.csproj.CoreCompileInputs.cache
+D:\Projeto_C#_2_hd2\Lista_20_ArvoreBinaria_C#\Exercicio01_Lista_20_ArvoreBinaria\obj\Debug\net8.0\Exercicio01_Lista_20_ArvoreBinaria.dll
+D:\Projeto_C#_2_hd2\Lista_20_ArvoreBinaria_C#\Exercicio01_Lista_20_ArvoreBinaria\obj\Debug\net8.0\refint\Exercicio01_Lista_20_ArvoreBinaria.dll
+D:\Projeto_C#_2_hd2\Lista_20_ArvoreBinaria_C#\Exercicio01_Lista_20_ArvoreBinaria\obj\Debug\net8.0\Exercicio01_Lista_20_ArvoreBinaria.pdb
+D:\Projeto_C#_2_hd2\Lista_20_ArvoreBinaria_C#\Exercicio01_Lista_20_ArvoreBinaria\obj\Debug\net8.0\Exercicio01_Lista_20_ArvoreBinaria.genruntimeconfig.cache
+D:\Projeto_C#_2_hd2\Lista_20_ArvoreBinaria_C#\Exercicio01_Lista_20_ArvoreBinaria\obj\Debug\net8.0\ref\Exercicio01_Lista_20_ArvoreBinaria.dll
